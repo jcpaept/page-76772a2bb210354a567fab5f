@@ -1,0 +1,156 @@
+{
+  "version": 2,
+  "template_version": "612e752c89f695570dfa",
+  "page_size": 20,
+  "site_id": "c912b1ac582f8099d489dfe4",
+  "owner": "jcpaept",
+  "repo": "page-76772a2bb210354a567fab5f",
+  "title": "一元机场",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "76772a2bb210354a567fab5f",
+      "a": "一元机场",
+      "b": "2026最新注册地址",
+      "entity": "一元机场",
+      "brand": "一元机场",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a0217388baf19c80c0738dcf33dae1daa7bc84a8a3f358bd29e490a43197af29",
+      "content": {
+        "keyword1": "一元机场",
+        "keyword2": "2026最新注册地址",
+        "primary_entity": "一元机场",
+        "content": {
+          "AI_CLIENTS_INTRO": "一元机场支持在常见客户端中导入订阅，Windows、macOS、Android、iOS 可按设备类型选用适配工具。",
+          "AI_CLIENTS_TITLE": "设备与客户端选择",
+          "AI_CLOSING_TEXT": "按设备数量与流量需求挑选套餐，完成订阅配置后即可使用。",
+          "AI_CLOSING_TITLE": "选好套餐，即刻开始",
+          "AI_DESCRIPTION": "，一元机场提供基础版、旗舰版和团队版三档套餐，分别适合轻量上网、多设备流媒体与团队协作场景。按年付可享更优惠价格，订阅配置流程清晰。",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量、支持3台设备，适合手机或电脑轻度使用；旗舰版每月300GB、支持5台设备，并解锁全节点原生流媒体；团队版每月1000GB、支持20台设备。",
+          "AI_FAQ_ANSWER_2": "订阅一般通过客户端导入链接或二维码完成，Windows可用Clash Verge，Android可用v2rayNG，iOS可用Shadowrocket等，具体以客户端文档为准。",
+          "AI_FAQ_ANSWER_3": "基础版支持3台，旗舰版支持5台，团队版支持20台设备同时在线。超过限制时新设备可能无法连接，可升级套餐或减少在线设备。",
+          "AI_FAQ_ANSWER_4": "可以。基础版按年付仅需150元，旗舰版350元，团队版850元，适合长期稳定使用的用户。",
+          "AI_FAQ_ANSWER_5": "旗舰版提供IPLC专线游戏加速优化和7x24优先工单支持，团队版有VIP专属高带宽节点、定制路由和专属客户经理，适合更高要求场景。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐周期。",
+          "AI_FAQ_QUESTION_1": "一元机场不同套餐有什么区别？",
+          "AI_FAQ_QUESTION_2": "如何导入订阅到客户端？",
+          "AI_FAQ_QUESTION_3": "一个账号可以同时几台设备使用？",
+          "AI_FAQ_QUESTION_4": "按年付是否更划算？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版适合哪些人？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求和使用场景出发，对比三档套餐的差异。",
+          "AI_FEATURES_TITLE": "套餐特点一览",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB流量，支持3台设备同时在线，解锁基础流媒体，适合个人轻度使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月300GB流量，支持5台设备，提供全节点原生流媒体和IPLC专线游戏加速，并享7x24优先工单支持。",
+          "AI_FEATURE_TEXT_3": "团队版每月1000GB流量，支持20台设备，配备VIP专属高带宽节点，支持企业定制路由和专属客户经理。",
+          "AI_FEATURE_TITLE_1": "基础版轻量适用",
+          "AI_FEATURE_TITLE_2": "旗舰版性能均衡",
+          "AI_FEATURE_TITLE_3": "团队版多设备协作",
+          "AI_GUIDE_INTRO": "根据自身设备数量与流量需求挑选套餐，然后按客户端指引配置订阅。",
+          "AI_GUIDE_TITLE": "三步完成使用准备",
+          "AI_HERO_INTRO": "一元机场提供基础版、旗舰版、团队版三档套餐，分别覆盖轻量上网、流媒体与多设备协作场景。按年付价格更优，订阅配置方式清晰。",
+          "AI_HERO_SUBTITLE": "多档套餐，灵活适配",
+          "AI_HIGHLIGHT_1": "三档套餐可选，按设备数和流量灵活匹配",
+          "AI_HIGHLIGHT_2": "按年付更优，基础版 ¥150/年，旗舰版 ¥350/年",
+          "AI_HIGHLIGHT_3": "支持主流客户端，订阅导入步骤清晰",
+          "AI_PLANS_INTRO": "基础版每月100GB流量、3台设备，旗舰版每月300GB、5台设备，团队版每月1000GB、20台设备，按需求选择。",
+          "AI_PLANS_TITLE": "套餐怎么选",
+          "AI_STEP_TEXT_1": "根据需要的设备数量和每月流量，确认基础版、旗舰版或团队版哪档更合适。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备限制、流媒体解锁和节点类型等适配要求。",
+          "AI_STEP_TEXT_3": "在客户端中按文档导入订阅链接，完成配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_VISUAL_TITLE": "一元机场套餐导览"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_generation": {
+          "version": 5,
+          "task": "76772a2bb210354a567fab5f",
+          "related_topics": []
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--cloud-et5i500m.com",
+    "host": "cn.xn--cloud-et5i500m.com",
+    "kind": "subdomain"
+  },
+  "friendlinks": [
+    {
+      "host": "xn--cloud-et5i500m.com",
+      "url": "https://xn--cloud-et5i500m.com/",
+      "label": "C加速",
+      "apex": "xn--cloud-et5i500m.com",
+      "kind": null,
+      "identity": "gyhnusbwhx/page-9436f23984f34f3778a07d60"
+    },
+    {
+      "host": "nijcrjv.cn",
+      "url": "https://nijcrjv.cn/",
+      "label": "一元机场",
+      "apex": "nijcrjv.cn",
+      "kind": null,
+      "identity": "qcmxgvja/page-e23f786fffa155d61c33f156"
+    },
+    {
+      "host": "njlfmm.cn",
+      "url": "https://njlfmm.cn/",
+      "label": "一元机场",
+      "apex": "njlfmm.cn",
+      "kind": null,
+      "identity": "rrwvhebydh/page-681f7721649366a078df7e68"
+    }
+  ],
+  "file_hashes": {
+    "assets/6f0f3b111882a70a065487b0.webp": "0a1cfad51249dbd15c9b5a79bf626e1bce570101897715087d01c5c054c175d2",
+    "assets/3dcb7b5ce4a0e52fa8237907.png": "2874cca72d3a131a258b003787edb3ce0bab6c1ab0afbfdfb0b626d59549c9ae",
+    "index.html": "0acda5bc0d1e6d5d3787a10c127f789b546ebcaf9fb76425745a3634590cd7a9",
+    "sitemap.xml": "65d4cae46868cc2b83c2d0932f30740d37c4fd47ccc5cc5207db81e966340399",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6b9821e7a1925537569bcdcee5c7fdf0bd5abae1402cdedfef288287c1924e7a",
+    "robots.txt": "b736040d12aa0babd396c641c8152f5f92cb35910938414e8419469c35221252",
+    "2263a0b4845e982523fb6c80dee7579d.txt": "fe868dc42c46b6bd47ff295a26c9827ae463d904f9187ac7f77dfcbdd013cd12"
+  },
+  "revision": "126d1abe53025b2168f1d949c79e6ce36840316d9cb8f5f0f9c3676881b23a41"
+}
